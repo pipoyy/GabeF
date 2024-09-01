@@ -1,0 +1,81 @@
+Diet Type,Intensity,Day,Meal
+Vegetarian,Light,Sunday,Vegetable Soup
+Vegetarian,Light,Monday,Cabbage Parmesan
+Vegetarian,Light,Tuesday,Sweet Potato Casserole
+Vegetarian,Medium,Monday,Chow Mein
+Vegetarian,Medium,Tuesday,Mushroom Curry
+Vegetarian,Medium,Wednesday,Vegan Meatballs
+Vegetarian,Heavy,Tuesday,Cabbage Schnitzel
+Vegan,Light,Wednesday,Tofu Stir-Fry
+Vegan,Light,Thursday,Vegan Pizza
+Vegan,Light,Friday,Lentil Salad
+Vegan,Medium,Thursday,Butternut Squash Stuffed Shells
+Vegan,Medium,Friday,Creamy Broccoli Vegan Pasta
+Vegan,Medium,Saturday,Shiitake Maki Sushi
+Vegan,Medium,Sunday,Sesame Soba Noodles
+Vegan,Medium,Monday,Zucchini Noodles
+Vegan,Heavy,Friday,Vegan Meatballs
+Vegan,Heavy,Saturday,Lemony Grilled Salmon
+Vegan,Heavy,Sunday,Lobster Salad
+Paleo,Light,Saturday,Perfect Broiled Salmon
+Paleo,Light,Sunday,Garlic Butter Baked Salmon
+Paleo,Light,Monday,Sweet Potato Chili
+Paleo,Medium,Sunday,Perfect Paleo Pizza
+Paleo,Medium,Monday,Bruschetta Grilled Chicken
+Paleo,Medium,Tuesday,Greek Chicken
+Paleo,Medium,Wednesday,Cheesy Bacon Ranch Chicken
+Paleo,Medium,Thursday,One-Pan Tuna Pasta
+Paleo,Medium,Friday,Balsamic Grilled Chicken and Zucchini
+Paleo,Heavy,Monday,Slow-Cooker Paleo Meatballs
+Paleo,Heavy,Tuesday,Roasted Turkey Drumsticks
+Paleo,Heavy,Wednesday,Paleo Chili
+Keto,Light,Monday,Chicken Parmesan
+Keto,Light,Tuesday,Turkey Taco Lettuce Wraps
+Keto,Light,Wednesday,Nut Crusted Baked Chicken
+Keto,Light,Thursday,Bacon Guac Bombs
+Keto,Light,Friday,Enchiladas
+Keto,Light,Saturday,Tabouli Salad
+Keto,Medium,Tuesday,Garlic Butter Meatballs
+Keto,Medium,Wednesday,California Grilled Chicken
+Keto,Medium,Thursday,Spicy Sesame Salmon
+Keto,Medium,Friday,Pork Chops With Apples
+Keto,Medium,Saturday,Zucchini Ravioli
+Keto,Medium,Sunday,Eggplant Lasagna
+Keto,Heavy,Wednesday,Cheesy Bacon Ranch Chicken
+Keto,Heavy,Thursday,Keto Taquitos
+Keto,Heavy,Friday,Hash Browns
+Mediterranean,Light,Friday,Homemade Hummus
+Mediterranean,Light,Saturday,Mediterranean Chicken
+Mediterranean,Light,Sunday,Grilled Artichoke
+Mediterranean,Light,Monday,Roasted Tomatoes
+Mediterranean,Medium,Saturday,Burrata Salad
+Mediterranean,Medium,Sunday,Grilled Octopus
+Mediterranean,Medium,Monday,Avocado Pasta Salad
+Mediterranean,Medium,Tuesday,Chicken Sandwich
+Mediterranean,Medium,Wednesday,Reuben Bowls
+Mediterranean,Heavy,Saturday,Mediterranean Beef Skewers
+Mediterranean,Heavy,Sunday,Stuffed Grape Leaves
+Mediterranean,Heavy,Monday,Greek Moussaka
+Low Carb,Light,Monday,Turkey Taco Lettuce Wraps
+Low Carb,Light,Tuesday,Nut Crusted Baked Chicken
+Low Carb,Light,Wednesday,Bacon Guac Bombs
+Low Carb,Light,Thursday,Enchiladas
+Low Carb,Light,Friday,Tabouli Salad
+Low Carb,Medium,Tuesday,California Grilled Chicken
+Low Carb,Medium,Wednesday,Spicy Sesame Salmon
+Low Carb,Medium,Thursday,Pork Chops With Apples
+Low Carb,Medium,Friday,Zucchini Ravioli
+Low Carb,Medium,Saturday,Eggplant Lasagna
+Low Carb,Heavy,Wednesday,Cheesy Bacon Ranch Chicken
+Low Carb,Heavy,Thursday,Keto Taquitos
+Low Carb,Heavy,Friday,Hash Browns
+No Sugar,Light,Wednesday,Homemade Hummus
+No Sugar,Light,Thursday,Turkey Taco Lettuce Wraps
+No Sugar,Light,Friday,Nut Crusted Baked Chicken
+No Sugar,Light,Saturday,Bacon Guac Bombs
+No Sugar,Light,Sunday,Enchiladas
+No Sugar,Light,Monday,Tabouli Salad
+No Sugar,Medium,Friday,Protein Pancakes
+No Sugar,Medium,Saturday,Mashed Potatoes
+No Sugar,Medium,Sunday,Broccoli Salad
+No Sugar,Heavy,Saturday,Protein Pancakes
